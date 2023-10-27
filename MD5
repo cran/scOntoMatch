@@ -1,13 +1,13 @@
-95b481a6d9d6672fd9e5e9ed7294b835 *DESCRIPTION
+20ca6756cf6941d9d71c1848a97b2916 *DESCRIPTION
 6bae65f87f653d0187a9cd2536b278e1 *LICENSE
 402ec88426378212d158b425e663676c *NAMESPACE
 e1c791750388fb54aa4cfc91f3a387f2 *R/functions.R
 f3505991cc75737f6795fa3ce6615c4f *R/helper_functions.R
-8b3efd34158611ded69db510f94e6fe4 *README.md
-d0d0ad3a6ffd01a0733e1d7bf49b8162 *build/vignette.rds
+1154e766ac29788af434f078f3acca2c *README.md
+d8e7e6456c400dad13beda992f01686a *build/vignette.rds
 80ca1b94d29db5722d52269e667a18c7 *inst/doc/scOntoMatch_vignette.R
 cbc1928308272945ba1301488802764c *inst/doc/scOntoMatch_vignette.Rmd
-8965f587902248e415c28aac073c1443 *inst/doc/scOntoMatch_vignette.html
+43904269319f48676763b32cc578e5f7 *inst/doc/scOntoMatch_vignette.html
 de00cff34bc4ac621af681490dfd1b37 *inst/extdata/TM_Lung_SS2_demo.rds
 0ff07d03f04b197901289a92e7a8ba7b *inst/extdata/TS_Lung_SS2_demo.rds
 e0fb8e943bbe5025d928ed3cb946d714 *inst/extdata/cl-basic.obo
